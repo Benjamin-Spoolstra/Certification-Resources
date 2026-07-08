@@ -20,6 +20,7 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | [Professor Messer Security+ Course](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/) | Free video course and notes covering the full Security+ exam objectives                             |
 | [CyberKraft Security+ Ports and Protocols Cheat Sheet](https://cdn.cyberkrafttraining.com/wp-content/uploads/2024/03/Cyberkraft-Security-Ports-and-Protocols-Reference-Sheet-SY0-701.pdf)   | Cheat sheet for all relevant ports and protocols needed for Security+ exam                                 |
 | [CyberKraft Practice PBQs](https://www.youtube.com/watch?v=zfwxSmL4n6w&list=PLUkY1OVVHzVljGOe8WAkKGc4GT8ZAKaav) | Curated playlist of practice PBQs from CyberKraft |
+| [StationX Security+ Cheat Sheet](https://www.stationx.net/comptia-security-cheat-sheet/) | Cheat Sheet for all objectives in Security+ | 
 
 ---
 
