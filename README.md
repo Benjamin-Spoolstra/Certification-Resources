@@ -58,12 +58,15 @@ A running list of resources I've used to study for and pass cybersecurity certif
 
 ---
 
-## AWS CCP
+## AWS Certified Cloud Practitioner
 
 | Resource                                       | Description                                                                                   |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [PEN-200 Course Materials](https://www.offsec.com/courses/pen-200/) | Official OffSec course content and lab access for OSCP prep                     |
-| [Proving Grounds](https://www.offsec.com/labs/) | Practice environment for exam-style boxes                                                     |
+| [AWS Certified Cloud Practitioner Exam Objectives](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf) | Official Exam Objectives List                    |
+| [AWS Certified Cloud Practitioner Course](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/) | Solid course for the AWS exam by Stephane Maarek                                                     |
+| [AWS Certified Cloud Practitioner Practice Exams](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/?srsltid=AfmBOoqzbgN5FBwEHq1Ps_nfKujcUjzytPg71OlEtJUd5awdEHb3NxGi) | 6 full length practice exams for the AWS exam by Stephane Maarek                                                     |
+| [StationX AWS Certified Cloud Practitioner Cheat Sheet](https://www.stationx.net/aws-cloud-practitioner-cheat-sheet/) | Cheat sheet for all exam objectives                                                     |
+
 
 ---
 
