@@ -13,6 +13,7 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | [Jason Dion CySA+ Practice Exams](https://www.udemy.com/course/comptia-cysa-cs0-003-practice-exams/?srsltid=AfmBOoqNTV5tbC2YJ7SqScID7SHkHfXP8qE9l0HWPc0gH0eLIPKF7iQR) | 6 full length Security+ practice exams |               
 | [MLA Tech CySA+ Practice PBQs](https://www.youtube.com/playlist?list=PLFjGvIblzMtGLDaXFzg72BmBfiHUC6P5j) | Curated playlist of practice PBQs from MLA Tech |
 | [StationX CySA+ Cheat Sheet](https://www.stationx.net/cysa-plus-cheat-sheet/) | Cheat Sheet for all objectives in CySA+ | 
+| [LetsDefend CySA+ Preparation Path](https://app.letsdefend.io/path/comptia-cysa-preparation-path) | Hands-on preparation path for the CySA+ exam |
 
 ---
 
@@ -26,6 +27,7 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | [CyberKraft Security+ Ports and Protocols Cheat Sheet](https://cdn.cyberkrafttraining.com/wp-content/uploads/2024/03/Cyberkraft-Security-Ports-and-Protocols-Reference-Sheet-SY0-701.pdf)   | Cheat sheet for all relevant ports and protocols needed for Security+ exam (same for Network+)                                |
 | [CyberKraft Security+ Practice PBQs](https://www.youtube.com/playlist?list=PLUkY1OVVHzVljGOe8WAkKGc4GT8ZAKaav) | Curated playlist of practice PBQs from CyberKraft |
 | [StationX Security+ Cheat Sheet](https://www.stationx.net/comptia-security-cheat-sheet/) | Cheat Sheet for all objectives in Security+ | 
+| [LetsDefend Security+ Preparation Path](https://app.letsdefend.io/path/comptia-security-plus-preparation-path) | Hands-on preparatio path for th Security+ exam |
 
 ---
 
