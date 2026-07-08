@@ -46,8 +46,15 @@ A running list of resources I've used to study for and pass cybersecurity certif
 
 | Resource                                       | Description                                                                                   |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [PEN-200 Course Materials](https://www.offsec.com/courses/pen-200/) | Official OffSec course content and lab access for OSCP prep                     |
-| [Proving Grounds](https://www.offsec.com/labs/) | Practice environment for exam-style boxes                                                     |
+| [A+ Core 1 Exam Objectives](https://www.examcompass.com/comptia-certifications/a-plus/core-1/comptia-a-plus-220-1201-exam-objectives.pdf) | Official Exam Objectives List |
+| [A+ Core 2 Exam Objectives](https://certblaster.com/wp-content/uploads/2022/11/CompTIA-A-220-1102-Exam-Objectives.pdf) | Official Exam Objectives List |
+| [Professor Messer A+ Core 1 Course](https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/220-1201-training-course/) | Free video course and notes covering the full A+ Core 1 exam objectives |
+| [Professor Messer A+ Core 2 Course](https://www.professormesser.com/free-a-plus-training/220-1202/220-1202-video/220-1202-training-course/) | Free video course and notes covering the full A+ Core 2 exam objectives |
+| [Jason Dion A+ Core 1 Practice Exams](udemy.com/course/comptia-a-core-1-220-1201-6-practice-exams/?srsltid=AfmBOooxmEg_suHa3YfubkeKhXYH4Kl5IBA-BjoLfvjm7gtoaJBA6U90) | 6 full length A+ Core 1 practice exams |
+| [Jason Dion A+ Core 2 Practice Exams](https://www.udemy.com/course/comptia-a-core-2-220-1202-6-practice-exams/?srsltid=AfmBOop6Gzpql9Dg40IAnbDYoa_ljYV1LJRl3--2VcIursu1cvSAc9Dw) | 6 full length A+ Core 2 practice exams |
+| [TotalSeminar A+ Core 1/2 Ports and Protocols Cheat Sheet](https://totalsem.com/download/comptia_protocols_and_ports.pdf)   | Cheat sheet for all relevant ports and protocols needed for A+ exam                                |
+| [StationX A+ Core 1/2 Practice PBQs](https://www.stationx.net/comptia-a-plus-performance-based-questions/) | List of practice PBQs from StationX |
+| [StationX A+ Core 1/2 Cheat Sheet](https://www.stationx.net/comptia-a-plus-cheat-sheet/) | Cheat Sheet for all objectives in A+ Cores 1 and 2 | 
 
 ---
 
@@ -75,12 +82,6 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [TryHackMe](https://tryhackme.com/)             | Guided, hands-on cybersecurity training rooms across multiple skill levels                    |
 | [Hack The Box](https://www.hackthebox.com/)     | Realistic, unguided penetration testing labs and challenges                                   |
-
----
-
-## Practice Exams & Question Banks
-
-*No resources listed yet.*
 
 ---
 
