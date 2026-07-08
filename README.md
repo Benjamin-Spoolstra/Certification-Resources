@@ -35,7 +35,7 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [Network+ Exam Objectives](https://www.examcompass.com/comptia-certifications/network-plus/comptia-network-plus-n10-009-exam-objectives.pdf) | Official Exam Objectives List |
 | [Professor Messer Network+ Course](https://www.professormesser.com/network-plus/n10-009/n10-009-video/n10-009-training-course/) | Free video course and notes covering the full Network+ exam objectives |
-| [Jason Dion Network+ Practice Exams](udemy.com/course/comptia-network-n10-009-6-practice-exams-and-pbqs-set-1/?srsltid=AfmBOopaWNcbFvp6f-pSC9EnbXjSkGlUEeEinaZPW6_Qz1yrzOvZ1HNK) | 6 full length Network+ practice exams |
+| [Jason Dion Network+ Practice Exams](https://udemy.com/course/comptia-network-n10-009-6-practice-exams-and-pbqs-set-1/?srsltid=AfmBOopaWNcbFvp6f-pSC9EnbXjSkGlUEeEinaZPW6_Qz1yrzOvZ1HNK) | 6 full length Network+ practice exams |
 | [CyberKraft Network+ Ports and Protocols Cheat Sheet](https://cdn.cyberkrafttraining.com/wp-content/uploads/2024/03/Cyberkraft-Security-Ports-and-Protocols-Reference-Sheet-SY0-701.pdf)   | Cheat sheet for all relevant ports and protocols needed for Network+ exam (same for Security+)                                |
 | [StationX Network+ Practice PBQs](https://www.stationx.net/network-plus-performance-based-questions/) | List of practice PBQs from StationX |
 | [StationX Network+ Cheat Sheet](https://www.stationx.net/comptia-network-cheat-sheet/) | Cheat Sheet for all objectives in Network+ | 
