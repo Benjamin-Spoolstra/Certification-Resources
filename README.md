@@ -27,7 +27,7 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | [CyberKraft Security+ Ports and Protocols Cheat Sheet](https://cdn.cyberkrafttraining.com/wp-content/uploads/2024/03/Cyberkraft-Security-Ports-and-Protocols-Reference-Sheet-SY0-701.pdf)   | Cheat sheet for all relevant ports and protocols needed for Security+ exam (same for Network+)                                |
 | [CyberKraft Security+ Practice PBQs](https://www.youtube.com/playlist?list=PLUkY1OVVHzVljGOe8WAkKGc4GT8ZAKaav) | Curated playlist of practice PBQs from CyberKraft |
 | [StationX Security+ Cheat Sheet](https://www.stationx.net/comptia-security-cheat-sheet/) | Cheat Sheet for all objectives in Security+ | 
-| [LetsDefend Security+ Preparation Path](https://app.letsdefend.io/path/comptia-security-plus-preparation-path) | Hands-on preparatio path for th Security+ exam |
+| [LetsDefend Security+ Preparation Path](https://app.letsdefend.io/path/comptia-security-plus-preparation-path) | Hands-on preparation path for the Security+ exam |
 
 ---
 
@@ -72,12 +72,15 @@ A running list of resources I've used to study for and pass cybersecurity certif
 
 ---
 
-## AZ 900
+## Azure Fundamentals (AZ-900)
 
 | Resource                                       | Description                                                                                   |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [PEN-200 Course Materials](https://www.offsec.com/courses/pen-200/) | Official OffSec course content and lab access for OSCP prep                     |
-| [Proving Grounds](https://www.offsec.com/labs/) | Practice environment for exam-style boxes                                                     |
+| [Azure Fundamentals Exam Objectives](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification) | Official Exam Objectives List                     |
+| [Azure Fundamentals Exam Course](https://learn.microsoft.com/en-us/training/courses/az-900t00) | Official Exam course by Microsoft for free |
+| [Azure Fundamentals Exam Practice Exam](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/assessment?assessment-type=practice&assessmentId=23&practice-assessment-type=certification) | Official Exam practice assessment by Microsoft for free |
+| [Azure Fundamentals Exam Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900) | Official Exam study guide by Microsoft for free |
+| [Azure Fundamentals Practice Questions](https://www.youtube.com/playlist?list=PLiUrl-SQRR7KWRUCmMLLewzzYObI_pDsS) | Great set of practice questions by CodewithBibek |
 
 ---
 
@@ -87,18 +90,15 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | [TryHackMe](https://tryhackme.com/)             | Guided, hands-on cybersecurity training rooms across multiple skill levels                    |
 | [Hack The Box](https://www.hackthebox.com/)     | Realistic, unguided penetration testing labs and challenges                                   |
-
----
-
-## Communities & Forums
-
-| Resource                                       | Description                                                                                   |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [r/CompTIA](https://www.reddit.com/r/CompTIA/)  | Subreddit for exam experiences, study tips, and Q&A                                          |
-| [InfoSec Discord Communities](https://example.com/) | Discord servers for exam study groups and peer support                                    |
+| [LetsDefend](https://letsdefend.io/) | Hands-on Blue Team and SOC operations labs |
+| [Portswigger](https://portswigger.net/) | Hands-on Web Application penetration testing learning paths and labs |
+| [CyLab Security Academy (formerly picoCTF)](https://cylabacademy.org/) | Jeopardy style CTF rooms to learn defensive and offensive security skills |
 
 ---
 
 ## Note-Taking & Documentation Tools
 
-*No resources listed yet.*
+| Resource                                       | Description                                                                                   |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Obsidian](https://obsidian.md/) | Local and cloud-based note taking platform |
+| [Astro](https://astro.build/) | Static Site Generator for Github Pages |
