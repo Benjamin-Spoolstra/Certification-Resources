@@ -8,8 +8,11 @@ A running list of resources I've used to study for and pass cybersecurity certif
 
 | Resource                                       | Description                                                                                   |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [CySA+ Cert Guide](https://example.com/)        | Official study guide covering threat detection, analysis, and response                       |
-| [Practice Exam Bank](https://example.com/)      | Set of practice questions used to reinforce weak areas before the exam                        |
+| [CySA+ Exam Objectives](https://cyberkrafttraining.com/wp-content/uploads/2023/05/CompTIA-CySA-CS0-003-Exam-Objectives.pdf?srsltid=AfmBOopHDsnl7qDn7tNbnpU8XCTtvzMRsqkCjobuH2SwqPcTBjCgNlbz) | Official Exam Objectives List |
+| [Jason Dion CySA+ Course](https://www.udemy.com/course/comptia-cysa-003/?srsltid=AfmBOoqhIHlb9k10JzaaRJnlybuHWnNIChAjEQMN4iPBeBsr23hzlpkb) | Free video course and notes covering the full CySA+ exam objectives |
+| [Jason Dion CySA+ Practice Exams](https://www.udemy.com/course/comptia-cysa-cs0-003-practice-exams/?srsltid=AfmBOoqNTV5tbC2YJ7SqScID7SHkHfXP8qE9l0HWPc0gH0eLIPKF7iQR) | 6 full length Security+ practice exams |               
+| [MLA Tech Practice PBQs](https://www.youtube.com/playlist?list=PLFjGvIblzMtGLDaXFzg72BmBfiHUC6P5j) | Curated playlist of practice PBQs from MLA Tech |
+| [StationX Security+ Cheat Sheet](https://www.stationx.net/cysa-plus-cheat-sheet/) | Cheat Sheet for all objectives in CySA+ | 
 
 ---
 
