@@ -12,7 +12,7 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | [Jason Dion CySA+ Course](https://www.udemy.com/course/comptia-cysa-003/?srsltid=AfmBOoqhIHlb9k10JzaaRJnlybuHWnNIChAjEQMN4iPBeBsr23hzlpkb) | Free video course and notes covering the full CySA+ exam objectives |
 | [Jason Dion CySA+ Practice Exams](https://www.udemy.com/course/comptia-cysa-cs0-003-practice-exams/?srsltid=AfmBOoqNTV5tbC2YJ7SqScID7SHkHfXP8qE9l0HWPc0gH0eLIPKF7iQR) | 6 full length Security+ practice exams |               
 | [MLA Tech Practice PBQs](https://www.youtube.com/playlist?list=PLFjGvIblzMtGLDaXFzg72BmBfiHUC6P5j) | Curated playlist of practice PBQs from MLA Tech |
-| [StationX Security+ Cheat Sheet](https://www.stationx.net/cysa-plus-cheat-sheet/) | Cheat Sheet for all objectives in CySA+ | 
+| [StationX CySA+ Cheat Sheet](https://www.stationx.net/cysa-plus-cheat-sheet/) | Cheat Sheet for all objectives in CySA+ | 
 
 ---
 
