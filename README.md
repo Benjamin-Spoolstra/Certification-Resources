@@ -50,7 +50,7 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | [A+ Core 2 Exam Objectives](https://certblaster.com/wp-content/uploads/2022/11/CompTIA-A-220-1102-Exam-Objectives.pdf) | Official Exam Objectives List |
 | [Professor Messer A+ Core 1 Course](https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/220-1201-training-course/) | Free video course and notes covering the full A+ Core 1 exam objectives |
 | [Professor Messer A+ Core 2 Course](https://www.professormesser.com/free-a-plus-training/220-1202/220-1202-video/220-1202-training-course/) | Free video course and notes covering the full A+ Core 2 exam objectives |
-| [Jason Dion A+ Core 1 Practice Exams](udemy.com/course/comptia-a-core-1-220-1201-6-practice-exams/?srsltid=AfmBOooxmEg_suHa3YfubkeKhXYH4Kl5IBA-BjoLfvjm7gtoaJBA6U90) | 6 full length A+ Core 1 practice exams |
+| [Jason Dion A+ Core 1 Practice Exams](https://udemy.com/course/comptia-a-core-1-220-1201-6-practice-exams/?srsltid=AfmBOooxmEg_suHa3YfubkeKhXYH4Kl5IBA-BjoLfvjm7gtoaJBA6U90) | 6 full length A+ Core 1 practice exams |
 | [Jason Dion A+ Core 2 Practice Exams](https://www.udemy.com/course/comptia-a-core-2-220-1202-6-practice-exams/?srsltid=AfmBOop6Gzpql9Dg40IAnbDYoa_ljYV1LJRl3--2VcIursu1cvSAc9Dw) | 6 full length A+ Core 2 practice exams |
 | [TotalSeminar A+ Core 1/2 Ports and Protocols Cheat Sheet](https://totalsem.com/download/comptia_protocols_and_ports.pdf)   | Cheat sheet for all relevant ports and protocols needed for A+ exam                                |
 | [StationX A+ Core 1/2 Practice PBQs](https://www.stationx.net/comptia-a-plus-performance-based-questions/) | List of practice PBQs from StationX |
