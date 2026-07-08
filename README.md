@@ -23,7 +23,7 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | [Security+ Exam Objectives](https://www.examcompass.com/comptia-certifications/security-plus/comptia-security-plus-sy0-701-exam-objectives.pdf) | Official Exam Objectives List |
 | [Professor Messer Security+ Course](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/) | Free video course and notes covering the full Security+ exam objectives |
 | [Jason Dion Security+ Practice Exams](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams) | 6 full length Security+ practice exams |
-| [CyberKraft Security+ Ports and Protocols Cheat Sheet](https://cdn.cyberkrafttraining.com/wp-content/uploads/2024/03/Cyberkraft-Security-Ports-and-Protocols-Reference-Sheet-SY0-701.pdf)   | Cheat sheet for all relevant ports and protocols needed for Security+ exam                                 |
+| [CyberKraft Security+ Ports and Protocols Cheat Sheet](https://cdn.cyberkrafttraining.com/wp-content/uploads/2024/03/Cyberkraft-Security-Ports-and-Protocols-Reference-Sheet-SY0-701.pdf)   | Cheat sheet for all relevant ports and protocols needed for Security+ exam (same for Network+)                                |
 | [CyberKraft Security+ Practice PBQs](https://www.youtube.com/playlist?list=PLUkY1OVVHzVljGOe8WAkKGc4GT8ZAKaav) | Curated playlist of practice PBQs from CyberKraft |
 | [StationX Security+ Cheat Sheet](https://www.stationx.net/comptia-security-cheat-sheet/) | Cheat Sheet for all objectives in Security+ | 
 
@@ -33,8 +33,12 @@ A running list of resources I've used to study for and pass cybersecurity certif
 
 | Resource                                       | Description                                                                                   |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [PenTest+ Study Guide](https://example.com/)    | Book/course covering planning, scoping, and execution of penetration tests                    |
-| [TryHackMe PenTest+ Path](https://tryhackme.com/) | Hands-on labs mapped to PenTest+ exam objectives                                            |
+| [Network+ Exam Objectives](https://www.examcompass.com/comptia-certifications/network-plus/comptia-network-plus-n10-009-exam-objectives.pdf) | Official Exam Objectives List |
+| [Professor Messer Network+ Course](https://www.professormesser.com/network-plus/n10-009/n10-009-video/n10-009-training-course/) | Free video course and notes covering the full Network+ exam objectives |
+| [Jason Dion Network+ Practice Exams](udemy.com/course/comptia-network-n10-009-6-practice-exams-and-pbqs-set-1/?srsltid=AfmBOopaWNcbFvp6f-pSC9EnbXjSkGlUEeEinaZPW6_Qz1yrzOvZ1HNK) | 6 full length Security+ practice exams |
+| [CyberKraft Network+ Ports and Protocols Cheat Sheet](https://cdn.cyberkrafttraining.com/wp-content/uploads/2024/03/Cyberkraft-Security-Ports-and-Protocols-Reference-Sheet-SY0-701.pdf)   | Cheat sheet for all relevant ports and protocols needed for Network+ exam (same for Security+)                                |
+| [StationX Network+ Practice PBQs](https://www.stationx.net/network-plus-performance-based-questions/) | List of practice PBQs from StationX |
+| [StationX Network+ Cheat Sheet](https://www.stationx.net/comptia-network-cheat-sheet/) | Cheat Sheet for all objectives in Network+ | 
 
 ---
 
