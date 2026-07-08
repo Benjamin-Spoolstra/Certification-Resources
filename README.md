@@ -11,7 +11,7 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | [CySA+ Exam Objectives](https://cyberkrafttraining.com/wp-content/uploads/2023/05/CompTIA-CySA-CS0-003-Exam-Objectives.pdf?srsltid=AfmBOopHDsnl7qDn7tNbnpU8XCTtvzMRsqkCjobuH2SwqPcTBjCgNlbz) | Official Exam Objectives List |
 | [Jason Dion CySA+ Course](https://www.udemy.com/course/comptia-cysa-003/?srsltid=AfmBOoqhIHlb9k10JzaaRJnlybuHWnNIChAjEQMN4iPBeBsr23hzlpkb) | Free video course and notes covering the full CySA+ exam objectives |
 | [Jason Dion CySA+ Practice Exams](https://www.udemy.com/course/comptia-cysa-cs0-003-practice-exams/?srsltid=AfmBOoqNTV5tbC2YJ7SqScID7SHkHfXP8qE9l0HWPc0gH0eLIPKF7iQR) | 6 full length Security+ practice exams |               
-| [MLA Tech Practice PBQs](https://www.youtube.com/playlist?list=PLFjGvIblzMtGLDaXFzg72BmBfiHUC6P5j) | Curated playlist of practice PBQs from MLA Tech |
+| [MLA Tech CySA+ Practice PBQs](https://www.youtube.com/playlist?list=PLFjGvIblzMtGLDaXFzg72BmBfiHUC6P5j) | Curated playlist of practice PBQs from MLA Tech |
 | [StationX CySA+ Cheat Sheet](https://www.stationx.net/cysa-plus-cheat-sheet/) | Cheat Sheet for all objectives in CySA+ | 
 
 ---
@@ -24,7 +24,7 @@ A running list of resources I've used to study for and pass cybersecurity certif
 | [Professor Messer Security+ Course](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/) | Free video course and notes covering the full Security+ exam objectives |
 | [Jason Dion Security+ Practice Exams](https://www.udemy.com/course/comptia-security-sy0-701-practice-exams) | 6 full length Security+ practice exams |
 | [CyberKraft Security+ Ports and Protocols Cheat Sheet](https://cdn.cyberkrafttraining.com/wp-content/uploads/2024/03/Cyberkraft-Security-Ports-and-Protocols-Reference-Sheet-SY0-701.pdf)   | Cheat sheet for all relevant ports and protocols needed for Security+ exam                                 |
-| [CyberKraft Practice PBQs](https://www.youtube.com/watch?v=zfwxSmL4n6w&list=PLUkY1OVVHzVljGOe8WAkKGc4GT8ZAKaav) | Curated playlist of practice PBQs from CyberKraft |
+| [CyberKraft Security+ Practice PBQs](https://www.youtube.com/watch?v=zfwxSmL4n6w&list=PLUkY1OVVHzVljGOe8WAkKGc4GT8ZAKaav) | Curated playlist of practice PBQs from CyberKraft |
 | [StationX Security+ Cheat Sheet](https://www.stationx.net/comptia-security-cheat-sheet/) | Cheat Sheet for all objectives in Security+ | 
 
 ---
