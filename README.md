@@ -96,13 +96,6 @@ A running list of resources I've used to study for and pass cybersecurity certif
 
 ---
 
-## Certification Roadmap
-| Resource                                       | Description                                                                                   |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Certification Roadmap](https://dragkob.com/security-certification-roadmap/)             | This roadmap lists all cyber certifications across their areas of speciality arranged by their level of difficulty                    |
-
----
-
 ## Note-Taking & Documentation Tools
 
 | Resource                                       | Description                                                                                   |
