@@ -4,6 +4,17 @@ A running list of resources I've used to study for and pass cybersecurity certif
 
 ---
 
+## PenTest+
+
+| Resource                                       | Description                                                                                   |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [PenTest+ Exam Objectives](https://github.com/PacktPublishing/Ethical-Hacking-and-CompTIA-PenTest-V3-PT0-003-Exam-Prep/blob/main/CompTIA%20PenTest%2B%20PT0-003%20Exam%20Objectives.pdf) | Official Exam Objectives List |
+| [Jason Dion PenTest+ Course](https://www.udemy.com/course/pentestplus/?srsltid=AfmBOoop1_aPmcoZpYnCeB27TyaOHrewmOt05q6BQChx8uso7kyHqvjN) | Free video course and notes covering the full CySA+ exam objectives |
+| [Jason Dion CySA+ Practice Exams](https://www.udemy.com/course/comptia-cysa-cs0-003-practice-exams/?srsltid=AfmBOoqNTV5tbC2YJ7SqScID7SHkHfXP8qE9l0HWPc0gH0eLIPKF7iQR) | 6 full length Security+ practice exams |               
+| [MLA Tech CySA+ Practice PBQs](https://www.youtube.com/playlist?list=PLFjGvIblzMtGLDaXFzg72BmBfiHUC6P5j) | Curated playlist of practice PBQs from MLA Tech |
+| [StationX CySA+ Cheat Sheet](https://www.stationx.net/cysa-plus-cheat-sheet/) | Cheat Sheet for all objectives in CySA+ | 
+| [LetsDefend CySA+ Preparation Path](https://app.letsdefend.io/path/comptia-cysa-preparation-path) | Hands-on preparation path for the CySA+ exam |
+
 ## CySA+
 
 | Resource                                       | Description                                                                                   |
